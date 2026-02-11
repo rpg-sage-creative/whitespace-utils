@@ -1,7 +1,6 @@
-# rpg-sage-creative/x-utils
+# rpg-sage-creative/whitespace-utils
 
-This repo is a utils collection for RSC projects.
-It's purpose is simply to provide reusable code.
+This repo is for manipulating strings; specifically their whitespace.
 
 ## Node
 
@@ -17,6 +16,6 @@ One of the actions performed by the build script is to create an `index.ts` file
 
 The build scripts included in this repo perform a dual pass build. One builds everything with an entire tsdoc. The second redoes the tsdoc files to remove any documentation with `@internal` in the description.
 
-# v1.?.0
+# v1.0.0
 
-As of vX.Y.Z this repo assumes you are using pnpm (instead of npm) and that you are making use of the updated `v1.3.1` version of `dev-scripts` (and other `rpg-sage-creative` repos).
+As of v1.0.0 this repo assumes you are using pnpm (instead of npm) and that you are making use of the updated `v1.3.1` version of `dev-scripts` (and other `rpg-sage-creative` repos).
