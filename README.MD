@@ -18,4 +18,4 @@ The build scripts included in this repo perform a dual pass build. One builds ev
 
 # v1.0.0
 
-As of v1.0.0 this repo assumes you are using pnpm (instead of npm) and that you are making use of the updated `v1.3.1` version of `dev-scripts` (and other `rpg-sage-creative` repos).
+As of v1.0.0 this repo assumes you are using pnpm (instead of npm) and that you are making use of the updated `v1.3.1` version of `dev-scripts`.
